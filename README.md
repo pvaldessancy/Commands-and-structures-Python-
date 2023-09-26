@@ -21,6 +21,6 @@ Getting Started
 To make the most of these exercises, follow these straightforward steps:
 
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/Python-Programming-Exercises.git
+git clone https://github.com/pvaldessancy/Python-Programming-Exercises.git
 Navigate to the exercise of your choice using your preferred code editor or integrated development environment (IDE).
 Execute the tasks outlined within each exercise's respective Python file to accomplish the objectives.
